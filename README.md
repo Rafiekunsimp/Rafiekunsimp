@@ -1,4 +1,11 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="24px" width="24px"> I'm Rafie <img src="https://komarev.com/ghpvc/?username=Rafiekunsimp&label=views&color=4581D6&style=flat-square" align="right" /></h1>
+<h1>
+  Hey
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="24" width="24" alt="Penguin">
+  I'm Rafie
+  <img src="https://komarev.com/ghpvc/?username=Rafiekunsimp&label=Profile%20Views&color=4581D6&style=flat-square" align="right" alt="Profile Views">
+</h1>
+
+<sub>@Rafiekunsimp</sub>
 
 <sub>@Rafiekunsimp</sub>
 
