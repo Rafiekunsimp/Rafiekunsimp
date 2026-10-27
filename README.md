@@ -1,16 +1,29 @@
-<h1>Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="24px" width="24px"> I'm Rafie <img src="https://komarev.com/ghpvc/?username=Rafiekunsimp&label=views&color=4581D6&style=flat-square" align="right" /></h1>
+<img src="assets/banner.png" alt="RAFIE — his omori-styled github profile" width="100%" />
 
-<sub>@Rafiekunsimp</sub>
+<p align="center">
+  <b>Rafie</b> · <sub>@Rafiekunsimp</sub> · <sub>LV 23</sub>
+  <img src="https://komarev.com/ghpvc/?username=Rafiekunsimp&label=views&color=2b2b27&style=flat-square" alt="profile views" />
+</p>
 
-<br>
+<p align="center">
+  <sub>* web dev, data analytics, and a whole lot of omori._</sub>
+</p>
 
-<img src="https://static.wikia.nocookie.net/omori/images/4/41/Omori_Fullbody_Profile.png/revision/latest?cb=20221031042228" width="180" align="right" />
-
-<br>
+<br />
 
 ---
 
-### About
+### ▸ BATTLE
+
+<p align="center">
+  <img src="assets/battle.gif" alt="Animated OMORI battle: OMORI attacks SOMETHING for 143 damage, SOMETHING fades away, then loops" width="100%" />
+</p>
+
+<p align="center"><sub>* your contributions, one turn at a time._</sub></p>
+
+---
+
+### ▸ ABOUT
 
 ```yaml
 name:        Rafie
@@ -35,7 +48,7 @@ interests:
 
 ---
 
-### Languages & Tools
+### ▸ LANGUAGES & TOOLS
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -61,14 +74,20 @@ interests:
 
 ---
 
-### Connect With Me
+### ▸ CONNECT
 
-<a href="https://instagram.com/rafie_kun_simp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://rafiekunsimp.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:reef@rafiekunsimp.is-a.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://instagram.com/rafie_kun_simp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://x.com/Justchef_reef"><img src="https://img.shields.io/badge/X-1D9BF0?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://discord.com/users/744808879036170272"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://rafiekunsimp.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:reef@rafiekunsimp.is-a.dev"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 ---
 
-<picture>
-  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
-</picture>
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/omori/images/4/41/Omori_Fullbody_Profile.png/revision/latest?cb=20221031042228" width="130" alt="OMORI" />
+  <br />
+  <sub>* made with something._</sub>
+  <br />
+  <b>· 143 ·</b>
+</p>
