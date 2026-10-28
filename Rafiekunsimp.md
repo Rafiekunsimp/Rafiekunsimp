@@ -127,6 +127,4 @@ interests:
   <img src="assets/something.png" alt="SOMETHING" width="76" />
   <br />
   <sub>* made with something._</sub>
-  <br />
-  <b>· 143 ·</b>
 </p>
