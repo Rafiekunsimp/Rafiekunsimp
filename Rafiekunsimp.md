@@ -8,11 +8,17 @@
   <sub>* web dev, data analytics, and a whole lot of omori._</sub>
 </p>
 
+> * "everyone has something they don't want to lose." — OMORI
+
+<p align="center">
+  <img src="assets/typing.svg" alt="RAFIE is coding / learning / sleeping / here" width="100%" />
+</p>
+
 <br />
 
 ---
 
-### ▸ BATTLE
+### <img src="assets/something.png" width="22" alt="" /> ▸ BATTLE
 
 <p align="center">
   <img src="assets/battle.gif" alt="Animated OMORI battle: OMORI attacks SOMETHING for 143 damage, SOMETHING fades away, then loops" width="100%" />
@@ -22,13 +28,17 @@
 
 ---
 
-### ▸ STATUS
+### <img src="assets/sunny.png" width="22" alt="" /> ▸ STATUS
 
 ```yaml
 player:     Rafie
 world:      Earth
 language:   English
 lv:         23
+
+currently:  building XryWeb
+mood:       caffeinated
+listening:  OMORI OST
 
 projects:
   - QwFNfer
@@ -46,9 +56,16 @@ interests:
   - Red Bull enthusiast
 ```
 
+<p align="center"><sub>* active quests._</sub></p>
+
+<p align="left">
+  <a href="https://github.com/Rafiekunsimp/QwFNfer"><img src="https://img.shields.io/badge/QwFNfer-2b2b27?style=for-the-badge&labelColor=0d0d0c&logo=github&logoColor=f0ede8" alt="QwFNfer" /></a>
+  <a href="https://github.com/Rafiekunsimp/XryWeb"><img src="https://img.shields.io/badge/XryWeb-2b2b27?style=for-the-badge&labelColor=0d0d0c&logo=github&logoColor=f0ede8" alt="XryWeb" /></a>
+</p>
+
 ---
 
-### ▸ SKILLS
+### <img src="assets/omori.png" width="22" alt="" /> ▸ SKILLS
 
 <p align="center"><sub>* RAFIE learned these techniques!_</sub></p>
 
@@ -68,7 +85,7 @@ interests:
 
 ---
 
-### ▸ GEAR
+### <img src="assets/mewo.gif" width="22" alt="" /> ▸ GEAR
 
 <p align="center"><sub>* the items rafie carries._</sub></p>
 
@@ -85,12 +102,20 @@ interests:
 
 ---
 
-### ▸ VIEWS
+### <img src="assets/sunny.png" width="22" alt="" /> ▸ VIEWS
+
+<p align="center">
+  <img src="assets/snake.svg" alt="Contribution snake (OMORI palette)" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Rafiekunsimp">
     <img src="https://komarev.com/ghpvc/?username=Rafiekunsimp&label=profile%20views&style=for-the-badge&color=2b2b27&labelColor=0d0d0c" alt="profile views" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiekunsimp&background=0d0d0c&ring=e63946&fire=e63946&currStreakNum=f0ede8&sideNums=f0ede8&currStreakLabel=a3a297&sideLabels=a3a297&dates=a3a297&hide_border=true" width="495" alt="Rafie's GitHub streak" />
 </p>
 
 <p align="center">
@@ -100,7 +125,7 @@ interests:
 
 ---
 
-### ▸ CONNECT
+### <img src="assets/something.png" width="22" alt="" /> ▸ CONNECT
 
 <p align="center">
   <a href="mailto:reef@rafiekunsimp.is-a.dev"><b>reef@rafiekunsimp.is-a.dev</b></a>
