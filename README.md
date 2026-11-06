@@ -1,4 +1,4 @@
-<img src="assets/banner.png" alt="RAFIE — his omori-styled github profile" width="100%" />
+﻿<img src="assets/banner.png" alt="RAFIE — his omori-styled github profile" width="100%" />
 
 <p align="center">
   <b>Rafie</b> · <sub>@Rafiekunsimp</sub> · <sub>LV 23</sub>
@@ -105,7 +105,7 @@ interests:
 ### <img src="assets/sunny.png" width="22" alt="" /> ▸ VIEWS
 
 <p align="center">
-  <img src="assets/snake.svg" alt="Contribution snake (OMORI palette)" width="100%" />
+  <img src="assets/snake-anim.svg" alt="Animated OMORI snake (SMIL)" width="100%" />
 </p>
 
 <p align="center">
