@@ -118,11 +118,6 @@ interests:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rafiekunsimp&background=0d0d0c&ring=e63946&fire=e63946&currStreakNum=f0ede8&sideNums=f0ede8&currStreakLabel=a3a297&sideLabels=a3a297&dates=a3a297&hide_border=true" width="495" alt="Rafie's GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafiekunsimp&show_icons=true&hide_border=true&bg_color=0d0d0c&title_color=f0ede8&icon_color=f0ede8&text_color=a3a297&ring_color=e63946" width="460" alt="Rafie's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafiekunsimp&layout=compact&hide_border=true&bg_color=0d0d0c&title_color=f0ede8&text_color=a3a297" width="330" alt="Top languages" />
-</p>
-
 ---
 
 ### <img src="assets/something.png" width="22" alt="" /> ▸ CONNECT
